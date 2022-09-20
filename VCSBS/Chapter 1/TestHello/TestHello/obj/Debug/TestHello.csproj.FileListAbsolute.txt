@@ -1,0 +1,8 @@
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.exe.config
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.exe
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\bin\Debug\TestHello.pdb
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.csproj.AssemblyReference.cache
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.csproj.SuggestedBindingRedirects.cache
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.exe
+D:\All in One\Group of Companies\ARRAKPP Group of Companies\ARRAKPP IT\Practice code for Exams\C#\z Microsoft Press\VCSBS\Chapter 1\TestHello\TestHello\obj\Debug\TestHello.pdb
