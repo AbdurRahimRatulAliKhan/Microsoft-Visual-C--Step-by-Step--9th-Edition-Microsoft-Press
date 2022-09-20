@@ -1,0 +1,14 @@
+C:\Work In Progress\MS Press\CSharp Step By Step 8th Edition\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\bin\Debug\TestHello.exe.config
+C:\Work In Progress\MS Press\CSharp Step By Step 8th Edition\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\bin\Debug\TestHello.exe
+C:\Work In Progress\MS Press\CSharp Step By Step 8th Edition\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\bin\Debug\TestHello.pdb
+C:\Work In Progress\MS Press\CSharp Step By Step 8th Edition\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.csprojResolveAssemblyReference.cache
+C:\Work In Progress\MS Press\CSharp Step By Step 8th Edition\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.exe
+C:\Work In Progress\MS Press\CSharp Step By Step 8th Edition\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.pdb
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\bin\Debug\TestHello.exe.config
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\bin\Debug\TestHello.exe
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\bin\Debug\TestHello.pdb
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.csproj.AssemblyReference.cache
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.csproj.SuggestedBindingRedirects.cache
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.csproj.CoreCompileInputs.cache
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.exe
+D:\All in One\prsn Data  edu  SW\edu\CS Study\Microsoft Visual C# Step by Step, 9th Edition\Code_Files_Sharp_SBS_9E_v2\Microsoft Press\VCSBS\Chapter 1\TestHello - Complete\TestHello\obj\Debug\TestHello.pdb
